@@ -2,101 +2,43 @@
 title: "Arbeidskrav 5"
 author: "Karen Grøndalen"
 date: "18 11 2021"
-output: html_document
-editor_options: 
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
   chunk_output_type: console
 bibliography: references.bib
 ---
 
 **INNLEDNING**
 
-Tidligere forskning har sett på treningvolum og muskelstyrke
-og viser at det ikke er noen signifikant forskjell mellom grupper som trente
-med ett sett av 8-12 repetisjoner og de som trente tre sett av 8-12
-repetisjoner, men at begge grupper hadde en signifikant økning i muskelstyrke [@hass2000]. Lignende studier har også lignende resultater, og viser til at
-et relativt lavt styrketreningsvolum er tilstrekkelig for å øke
-muskelhypoertrofi hos både trente og mindre trente deltakere [@hass2000],[@schoenfeld2019], [@heaselgrave2019], [@hackett2018].
+Tidligere forskning har sett på treningvolum og muskelstyrke og viser at det ikke er noen signifikant forskjell mellom grupper som trente med ett sett av 8-12 repetisjoner og de som trente tre sett av 8-12 repetisjoner, men at begge grupper hadde en signifikant økning i muskelstyrke [@hass2000]. Lignende studier har også lignende resultater, og viser til at et relativt lavt styrketreningsvolum er tilstrekkelig for å øke muskelhypoertrofi hos både trente og mindre trente deltakere [@hass2000],[@schoenfeld2019], [@heaselgrave2019], [@hackett2018].
 
-Styrketrening er ansett som den mest effektive måten å
-fremme muskelhypertrofi og økning i muskelmasse på [@souza2020]. Det er dog
-mange variabler som er med på å bestemme om man vil få resultater av ST og det
-innebærer hvilke type trening, treningsfrekvens, intensitet, volum, «time under
-tension» (TUT) og tilsyn [@souza2020]. Enkelte mener det er treningsvolumet
-som har størst effekt på økning i muskelmasse, mens andre peker på at en økning
-treningsvolum kun er effektivt frem til et visst nivå før det begynner å
-stagnere [@souza2020].
+Styrketrening er ansett som den mest effektive måten å fremme muskelhypertrofi og økning i muskelmasse på [@souza2020]. Det er dog mange variabler som er med på å bestemme om man vil få resultater av ST og det innebærer hvilke type trening, treningsfrekvens, intensitet, volum, «time under tension» (TUT) og tilsyn [@souza2020]. Enkelte mener det er treningsvolumet som har størst effekt på økning i muskelmasse, mens andre peker på at en økning treningsvolum kun er effektivt frem til et visst nivå før det begynner å stagnere [@souza2020].
 
-Formålet med denne studien er å se på endring i muskelmasse
-og styrke ved single sett eller multiple sett ettersom flere studier antyder at
-single sett kan være likeså godt som flere sett.
+Formålet med denne studien er å se på endring i muskelmasse og styrke ved single sett eller multiple sett ettersom flere studier antyder at single sett kan være likeså godt som flere sett.
 
 **METODE**
 
 *Deltakere og studieoversikt*
 
-41 røykfrie mannlige og kvinnelige deltakere mellom 18 og 40
-år ble rekruttert til studien. Eksklusjonskriterier i studien var; intoleranse
-for lokal bedøvelse, mer enn én ukentlig styrketreningsøkt, nedsatt
-muskelstyrke grunnet skade og inntak av reseptbelagt medisin som kunne påvirke
-treningen. Syv deltakere ble ekskludert av studien grunnet frafall fra
-planlagte treningsøkter. Alle inkluderte deltakere hadde erfaring fra
-sportslige aktiviteter og tjue deltakere trente ca. 2 ganger per uke ved
-påmelding til studien (ingen over 1 styrketreningsøkt i uken).
+41 røykfrie mannlige og kvinnelige deltakere mellom 18 og 40 år ble rekruttert til studien. Eksklusjonskriterier i studien var; intoleranse for lokal bedøvelse, mer enn én ukentlig styrketreningsøkt, nedsatt muskelstyrke grunnet skade og inntak av reseptbelagt medisin som kunne påvirke treningen. Syv deltakere ble ekskludert av studien grunnet frafall fra planlagte treningsøkter. Alle inkluderte deltakere hadde erfaring fra sportslige aktiviteter og tjue deltakere trente ca. 2 ganger per uke ved påmelding til studien (ingen over 1 styrketreningsøkt i uken).
 
-Intervensjonen bestod av 12 uker med helkropps styrketrening
-som begynte i perioden september til november. Alle beinøvelser ble utført
-unilateralt for å kunne skille mellom treningsvolum i den enkelte deltaker.
-Begge bein ble tilfeldig tildelt å utføre styrketrening med enten ett sett eller
-tre sett. Alle deltakere utførte altså begge protokoller. Muskelstyrken ble
-målt ved baseline, under intervensjonene (uke 3, 5 og 9) og etter endt
-treningsintervensjon. Kroppskomposisjon ble målt før og etter
-treningsintervensjonene. Muskelbiopsi ble utført fra begge bein (vastus
-lateralis) ved baseline, i hvilefase, før og en time etter den femte
-treningsøkten og etter endt intervensjon. Alle deltakere logget næringsinntaket
-i 4-5 dager (inkl. 1 helgedag) fra uke 6.
+Intervensjonen bestod av 12 uker med helkropps styrketrening som begynte i perioden september til november. Alle beinøvelser ble utført unilateralt for å kunne skille mellom treningsvolum i den enkelte deltaker. Begge bein ble tilfeldig tildelt å utføre styrketrening med enten ett sett eller tre sett. Alle deltakere utførte altså begge protokoller. Muskelstyrken ble målt ved baseline, under intervensjonene (uke 3, 5 og 9) og etter endt treningsintervensjon. Kroppskomposisjon ble målt før og etter treningsintervensjonene. Muskelbiopsi ble utført fra begge bein (vastus lateralis) ved baseline, i hvilefase, før og en time etter den femte treningsøkten og etter endt intervensjon. Alle deltakere logget næringsinntaket i 4-5 dager (inkl. 1 helgedag) fra uke 6.
 
 *Protokoll og styrketester*
 
-En standardisert oppvarmingsrutine ble gjennomført før alle
-treningsøkter, bestående av 5 min. ergometersykling (12-14RPE), 10 repetisjoner
-(rep) av hver kroppsvektsøvelse (push-ups, sit-ups, rygghev, knebøy) og ett
-sett med 10 rep av 1 repetisjon maksimum (RM) for hver øvelse. Rekkefølgen på
-styrketreningen på ben var som følger; unilateral benpress, leg-curl og
-kne-ekstensjon (enten ett sett eller tre sett). Protokollen for ett sett ble
-gjennomført mellom det 2. og det 3. settet av protokollen for tre sett. Etter
-beinøvelsene utførte alle deltakere to sett hver med bilateral benkpress,
-nedtrekk og enten skulderpress eller sittende roing. To sistnevnte ble
-gjennomført annenhver økt. Mellom settene var det en hvileperiode på 90-180
-sekunder. Treningsintensiteten ble gradvis økt gjennom intervensjonsperioden,
-de to første ukene var av 10RM, deretter tre uker med 8RM, og 7RM i de siste
-syv ukene. For å få plass til treningsøktene i deltakernes hverdag ble enkelte
-økter gjennomført uten tilsyn, hvor deltakerne deretter måtte loggføre
-treningene sine som ble sjekket av forskerteamet for å se til at protokollen
-ble gjennomført. Gjennomsnittlig var 91 av øktene under tilsyn. Fra den niende
-treningen ble det hver uke gjennomført en økt med redusert vekt (90% av
-foregående økt). Det ble holdt av minimum 48 timer mellom hver av øktene med
-maksimal innsats og 24 timer mellom hver økt med submaksimal innsats. Etter
-endt treningsøkt ble deltakerne gitt en drikk med 0.15g protein, 11.2g
-karbohydrater og 0.5g fett (g x kg\^-1).
+En standardisert oppvarmingsrutine ble gjennomført før alle treningsøkter, bestående av 5 min. ergometersykling (12-14RPE), 10 repetisjoner (rep) av hver kroppsvektsøvelse (push-ups, sit-ups, rygghev, knebøy) og ett sett med 10 rep av 1 repetisjon maksimum (RM) for hver øvelse. Rekkefølgen på styrketreningen på ben var som følger; unilateral benpress, leg-curl og kne-ekstensjon (enten ett sett eller tre sett). Protokollen for ett sett ble gjennomført mellom det 2. og det 3. settet av protokollen for tre sett. Etter beinøvelsene utførte alle deltakere to sett hver med bilateral benkpress, nedtrekk og enten skulderpress eller sittende roing. To sistnevnte ble gjennomført annenhver økt. Mellom settene var det en hvileperiode på 90-180 sekunder. Treningsintensiteten ble gradvis økt gjennom intervensjonsperioden, de to første ukene var av 10RM, deretter tre uker med 8RM, og 7RM i de siste syv ukene. For å få plass til treningsøktene i deltakernes hverdag ble enkelte økter gjennomført uten tilsyn, hvor deltakerne deretter måtte loggføre treningene sine som ble sjekket av forskerteamet for å se til at protokollen ble gjennomført. Gjennomsnittlig var 91 av øktene under tilsyn. Fra den niende treningen ble det hver uke gjennomført en økt med redusert vekt (90% av foregående økt). Det ble holdt av minimum 48 timer mellom hver av øktene med maksimal innsats og 24 timer mellom hver økt med submaksimal innsats. Etter endt treningsøkt ble deltakerne gitt en drikk med 0.15g protein, 11.2g karbohydrater og 0.5g fett (g x kg\^-1).
 
-Ved baseline ble 1RM, isokinetisk og isometrisk styrke
-målinger gjennomført to ganger med minst 4 dager mellom hver. Høyeste oppnådd
-verdi her ble brukt i analysene. Styrketester var separert med minst 48 timer
-og et kombinert mål på muskelstyrke ble beregnet som et gjennomsnitt av alle
-tester (1RM, isometrisk og isokinetisk). DXA-scan ble benyttet til å estimere
-kroppssammensetning før og etter intervensjonene.
+Ved baseline ble 1RM, isokinetisk og isometrisk styrke målinger gjennomført to ganger med minst 4 dager mellom hver. Høyeste oppnådd verdi her ble brukt i analysene. Styrketester var separert med minst 48 timer og et kombinert mål på muskelstyrke ble beregnet som et gjennomsnitt av alle tester (1RM, isometrisk og isokinetisk). DXA-scan ble benyttet til å estimere kroppssammensetning før og etter intervensjonene.
 
 *Dataanalyse og statistikk*
 
-All dataanalyse og statistikk ble gjennomført i R-studio og
-signifikansnivået ble satt til p = 0.05. For å vurdere effekten av antall sett
-på muskelhypertrofi og styrke ble lineære modeller benyttet, med relative
-endringer fra baseline som avhengig variabel og antall sett som den faste
-hovedeffekten.
+All dataanalyse og statistikk ble gjennomført i R-studio og signifikansnivået ble satt til p = 0.05. For å vurdere effekten av antall sett på muskelhypertrofi og styrke ble lineære modeller benyttet, med relative endringer fra baseline som avhengig variabel og antall sett som den faste hovedeffekten.
 
 **RESULTAT**
 
-```{r}
+```{r, echo=FALSE, eval=FALSE, warning=FALSE}
 library(tidyverse)
 library(exscidata)
 library(knitr)
@@ -115,8 +57,6 @@ styrke <- strengthvolume %>%
               values_from = combined.load)%>%
   mutate(endring = ((post - pre) / pre) * 100)%>%
   print()
-  
-  
   
 styrke%>%
   filter(!is.na(post))%>%
@@ -146,7 +86,7 @@ styrkeplot <- strengthvolume %>%
 
 ```
 
-```{r}
+```{r, echo=FALSE, eval=FALSE, warning=FALSE}
 
 library(exscidata)
 data("dxadata")
@@ -183,17 +123,14 @@ plot(m2)
 plot(m1)
 plot(m0)
 
-
-
-#mixed model inneholder gjennomsnittverdier OG utgangspunkt fra hver forsøksperson. Tar hånd om problemet med å korrelere data. Bryter mot antakelsene i en vanlig lineær modell. 
-#lmer test gir p-verdi 
-#lme4 gir konfidensintervall - hvis konfidensintervallet ikke inneholder 0 er det signifikant. (konfidensintervallet - forskjellen mellom multiple og single sets inneholder ikke 0 ---- nullhypotesen stemmer ikke). - Ser man på kjønnsforskjellene ser man at den inneholder 0 - disse gruppene responderer altså ikke ulikt på intervensjonene. 
-
-### Denne studien viser at etter x antall uker med single eller multiple sets vil man ha 123g mer muskelmasse i den foten som har trent multiple sets. 
-
-
 ```
 
-DISKUSJON
+Resultatene viser at det er en 31% endring i muskelstyrke hvor det er blitt utført multipple sett og en 24.5% endring ved single sett. P = 0.03, en signifikant forskjell mellom single og multipple sett.
 
-KONKLUSJON
+Endring i muskelmasse ..... sliter med å skjønne resultatene.
+
+DISKUSJON/KONKLUSJON
+
+I likhet med andre studier viser også denne at det er en endring i muskelstyrke ved single sett, altså med færre sett per treningsøkt. Endringen er derimot større ved flere sett, noe som viser at flere sett gir større styrkeøkning enn færre sett.
+
+REFERANSER
