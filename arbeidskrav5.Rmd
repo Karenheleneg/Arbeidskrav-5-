@@ -38,7 +38,7 @@ All dataanalyse og statistikk ble gjennomført i R-studio og signifikansnivået 
 
 **RESULTAT**
 
-```{r, echo=FALSE, eval=FALSE, warning=FALSE}
+```{r, echo=FALSE, eval=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
 library(exscidata)
 library(knitr)
@@ -86,7 +86,7 @@ styrkeplot <- strengthvolume %>%
 
 ```
 
-```{r, echo=FALSE, eval=FALSE, warning=FALSE}
+```{r, echo=FALSE, eval=FALSE, warning=FALSE, message=FALSE}
 
 library(exscidata)
 data("dxadata")
